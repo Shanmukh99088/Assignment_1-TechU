@@ -26,9 +26,12 @@ body{
     font-weight: bold;
     color: rgb(54, 54, 54);
 }
-
-ul.navbar-menu
-{
+a{
+    text-decoration: none;
+    color: rgb(48, 48, 48);
+}
+a:hover{
+    color: orangered;
     cursor: pointer;
 }
 .banner1
